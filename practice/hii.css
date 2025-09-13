@@ -1,0 +1,35 @@
+body{
+margin: 0;
+padding:0;
+font-family: Aria, sans-serif;}
+
+header{
+padding: 20px;
+text-align: center;
+text-decoration: underline;
+}
+
+nav{
+background-color:blue;
+padding:10px;
+
+overflow: hidden;
+}
+
+nav ul{
+list-style-type: none;
+text-align: center;}
+
+nav ul li{
+display: inline;
+margin: 0 10px;
+}
+nav ul li a{
+color: white;
+text-decoration: none;
+}
+
+.sidebar{
+float: left;
+background-color: yellow;
+margin-top: 10px;}
